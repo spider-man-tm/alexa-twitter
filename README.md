@@ -17,7 +17,7 @@ Alexaを使ってTwitterへ投稿アプリ
 2. Lambda関数作成後、以下の手順でローカルからソースコードをアップロード
 
 ```
-$ git clone {このレポジトリ}
+$ git clone git@github.com:spider-man-tm/alexa-twitter.git
 
 # クローンしたディレクトリに移動後、初期化＆必要なモジュールをインストール
 $ sh setup.sh
